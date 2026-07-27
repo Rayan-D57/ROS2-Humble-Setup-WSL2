@@ -17,6 +17,37 @@ The objective of this task was to:
 
 ---
 
+# What is Linux?
+
+Linux is a free and open-source operating system kernel developed by Linus Torvalds in 1991. It is widely used in servers, cloud computing, embedded systems, and robotics because of its stability, security, flexibility, and high performance. Linux provides powerful command-line tools and allows developers to efficiently manage system resources, making it the preferred platform for robotics and software development.
+
+---
+
+# What is Ubuntu?
+
+Ubuntu is one of the most popular Linux distributions developed by Canonical Ltd. It is based on Debian and provides a user-friendly environment while maintaining the power and flexibility of Linux. Ubuntu offers Long-Term Support (LTS) releases that receive security updates and maintenance for several years. Because of its stability and compatibility, Ubuntu has become the standard operating system for robotics development and is officially supported by ROS 2.
+
+---
+
+# What is ROS?
+
+Robot Operating System (ROS) is an open-source robotics middleware that provides a collection of libraries, frameworks, and development tools for building robotic applications. Rather than being a traditional operating system, ROS serves as a communication layer that enables different software components (nodes) to exchange information efficiently. It provides hardware abstraction, package management, visualization tools, simulation support, device drivers, and communication services that significantly simplify robotics software development.
+
+---
+
+# What is ROS 2 Humble?
+
+ROS 2 Humble Hawksbill is a Long-Term Support (LTS) release of ROS 2 designed to provide improved reliability, performance, scalability, and security. It uses the Data Distribution Service (DDS) communication standard, allowing efficient communication between distributed robotic systems. ROS 2 Humble supports real-time applications, multi-platform development, and modern robotics architectures, making it one of the most widely used versions in both academia and industry.
+
+---
+
+# Why Ubuntu 22.04 and ROS 2 Humble?
+
+Ubuntu 22.04 LTS is the officially supported operating system for ROS 2 Humble. This combination offers long-term stability, compatibility with robotics packages, continuous security updates, and a reliable environment for developing robotic applications. For these reasons, Ubuntu 22.04 and ROS 2 Humble are the recommended platform for learning robotics and developing autonomous systems.
+
+---
+
+
 ## Installation Steps
 
 ### 1. Install Ubuntu 22.04
