@@ -47,6 +47,38 @@ Ubuntu 22.04 LTS is the officially supported operating system for ROS 2 Humble. 
 
 ---
 
+## Features
+
+- Installation of Ubuntu 22.04 LTS using WSL2.
+- Complete installation of ROS 2 Humble Desktop.
+- ROS environment configuration.
+- Installation verification.
+- Documentation of common installation issues and their solutions.
+
+---
+
+## Prerequisites
+
+Before starting the installation, make sure you have:
+
+- Windows 10 or Windows 11
+- Windows Subsystem for Linux 2 (WSL2)
+- Stable Internet Connection
+- Administrator Privileges
+
+
+---
+
+## Technologies Used
+
+- Ubuntu 22.04 LTS
+- Linux
+- WSL2
+- ROS 2 Humble Hawksbill
+- Bash Shell
+- APT Package Manager
+
+---
 
 ## Installation Steps
 
