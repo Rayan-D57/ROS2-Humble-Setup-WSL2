@@ -150,6 +150,32 @@ This confirms that ROS 2 Humble was installed and configured successfully.
 
 ---
 
+## Installation Progress
+
+| Step | Status |
+|------|--------|
+| Install Ubuntu 22.04 | ✅ |
+| Update System | ✅ |
+| Add ROS Repository | ✅ |
+| Install ROS 2 Humble | ✅ |
+| Configure Environment | ✅ |
+| Verify Installation | ✅ |
+
+---
+
+
+## Frequently Used Commands
+
+| Command | Description |
+|---------|-------------|
+| `sudo apt update` | Update package list |
+| `sudo apt upgrade` | Upgrade installed packages |
+| `source /opt/ros/humble/setup.bash` | Source ROS environment |
+| `echo $ROS_DISTRO` | Verify installed ROS distribution |
+| `ros2` | Display ROS 2 command options |
+
+---
+
 # Problems Encountered
 
 ## Problem 1: Wrong Ubuntu Version
@@ -234,6 +260,19 @@ This indicates that Ubuntu 22.04, WSL2, and ROS 2 Humble Desktop were installed 
 
 
 ---
+
+## Common Issues
+
+| Issue | Solution |
+|-------|----------|
+| Ubuntu 26.04 installed | Reinstalled Ubuntu 22.04 LTS |
+| ROS packages not found | Added the official ROS repository |
+| Incorrect repository commands | Corrected the command syntax |
+| ROS not detected | Verified the environment using `echo $ROS_DISTRO` |
+
+---
+
+
 
 ## Author
 
