@@ -163,6 +163,16 @@ This confirms that ROS 2 Humble was installed and configured successfully.
 
 ---
 
+## Software Selection
+
+| Software | Reason |
+|----------|--------|
+| Ubuntu 22.04 LTS | Officially supported by ROS 2 Humble |
+| ROS 2 Humble | Stable LTS release for robotics development |
+| WSL2 | Enables Linux development on Windows |
+
+---
+
 
 ## Frequently Used Commands
 
